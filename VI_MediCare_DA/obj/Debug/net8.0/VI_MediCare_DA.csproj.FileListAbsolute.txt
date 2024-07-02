@@ -1,0 +1,15 @@
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\bin\Debug\net8.0\VI_MediCare_DA.deps.json
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\bin\Debug\net8.0\VI_MediCare_DA.dll
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\bin\Debug\net8.0\VI_MediCare_DA.pdb
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\bin\Debug\net8.0\VI_MediCare_Object.dll
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\bin\Debug\net8.0\VI_MediCare_Object.pdb
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\obj\Debug\net8.0\VI_MediCare_DA.csproj.AssemblyReference.cache
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\obj\Debug\net8.0\VI_MediCare_DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\obj\Debug\net8.0\VI_MediCare_DA.AssemblyInfoInputs.cache
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\obj\Debug\net8.0\VI_MediCare_DA.AssemblyInfo.cs
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\obj\Debug\net8.0\VI_MediCare_DA.csproj.CoreCompileInputs.cache
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\obj\Debug\net8.0\VI_MediC.FBCADB03.Up2Date
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\obj\Debug\net8.0\VI_MediCare_DA.dll
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\obj\Debug\net8.0\refint\VI_MediCare_DA.dll
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\obj\Debug\net8.0\VI_MediCare_DA.pdb
+C:\Users\suryaprajapati\source\repos\VI_MediCare\VI_MediCare_DA\obj\Debug\net8.0\ref\VI_MediCare_DA.dll

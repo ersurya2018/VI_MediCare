@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VI_MediCare_DA\VI_MediCare_DA.csproj" />
+    <ProjectReference Include="..\VI_MediCare_Object\VI_MediCare_Object.csproj" />
+  </ItemGroup>
+
+</Project>

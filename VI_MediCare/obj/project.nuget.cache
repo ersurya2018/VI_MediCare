@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tp3PjnJNzs7DcixD4XpfdEZkZyjrckrMldweRL29N9h/d9JWxdDwUN97uxBHSEsV7jizzic0gDoJvhvQ1Cmepg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suryaprajapati\\source\\repos\\VI_MediCare\\VI_MediCare\\VI_MediCare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suryaprajapati\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
